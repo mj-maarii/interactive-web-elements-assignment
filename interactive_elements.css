@@ -1,0 +1,57 @@
+    #vamp {
+        background-color: #c80000;
+        color: white;
+        padding: 10px 20px;
+        border: solid 5px #690000;
+        border-radius: 5px;
+        margin-left: left;
+        
+    }
+    #wolf {
+        background-color: #0000ae;
+        color: white;
+        padding: 10px 20px;
+        border: solid 5px #030034;
+        border-radius: 5px;
+        margin-right: 10px;
+    }
+    .button:hover {
+        box-shadow: #ffffff 0px 0px 10px;
+        cursor:crosshair;
+    }
+    div1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    }
+    div2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+        gap: 600px;
+    }
+    #pepe {
+        width: 350px;
+        height: auto;
+        display: float;
+        margin: 20px auto;
+        box-shadow: #000000 5px 5px 10px;
+    }
+    #alpha {
+        width: 350px;
+        height: auto;
+        display: float;
+        margin: 20px auto;
+        box-shadow: #000000 5px 5px 10px;
+        background-color: #ffffff;
+    }
+    .background-pic {
+        width: 300px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+     body {
+    background-color: rgb(42, 42, 42);
+}
